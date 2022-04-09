@@ -1,4 +1,4 @@
-# Tusmo
+# Sutom
 
 The code is inspired by the famous french game named MOTUS where the goal is to guess a word.
 Only the length of this word and its first letter are given.
